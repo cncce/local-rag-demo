@@ -58,13 +58,20 @@
 
 local-rag-demo
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── docs/
     ├── PRD.md
+    
     ├── 用户调研记录.md
+    
     ├── 效果测试用例.md
+    
     ├── demo-screenshot.png
+    
     └── 业务流程图.png
 
 
