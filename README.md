@@ -57,6 +57,7 @@
 📂 仓库目录说明
 
 local-rag-demo
+
 ├── app.py
 
 ├── requirements.txt
@@ -64,6 +65,7 @@ local-rag-demo
 ├── README.md
 
 └── docs/
+
     ├── PRD.md
     
     ├── 用户调研记录.md
